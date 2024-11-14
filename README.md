@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m Aakanksha
 
-- 👀 I’m interested in data analytics, data visualization, and finding insights through data.
-- 🌱 I’m currently learning dvanced techniques in data wrangling, SQL, Python and machine learning 
-- 💞️ I’m looking to collaborate on projects involving data analysis, visualization, and data-driven storytelling.
-- 📫 How to reach me: aakankshap269@gmail.com
+- 👀 I’m interested in data analytics, artificial intelligence, and exploring how AI can solve real-world problems.
+- 🌱 I’m currently learning advanced machine learning techniques, NLP, and deep learning applications in data analytics.
+- 💞️ I’m looking to collaborate on open-source projects in data science, AI, and impactful data-driven projects.
+- 📫 How to reach me: Email : aakankshap269@gmail.com | linkedin: https://www.linkedin.com/in/aakanksha-patel-abb3a1154/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love exploring new datasets and finding patterns where others might not see them!
+- ⚡ Fun fact: I love uncovering insights hidden in data and enjoy experimenting with new AI models!
 
 
 
